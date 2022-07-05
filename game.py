@@ -10,3 +10,7 @@ while feeling_brave:
     print("Какую выберешь ты?")
     door = input('1, 2, или 3?')
     door_num = int(door)
+    if door_num == ghost_door;
+         print("Вот же оно!")
+         feeling_brave = False
+    else:
