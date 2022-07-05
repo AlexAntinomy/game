@@ -14,3 +14,8 @@ while feeling_brave:
          print("Вот же оно!")
          feeling_brave = False
     else:
+        print("Здесь ничего нет!")
+        print("Посмотри в другой комнате...")
+        score = score + 1
+print("Беги!")
+print("Игра окончена! Ты набрал", score, "очков")
